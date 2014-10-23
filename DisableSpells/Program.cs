@@ -27,8 +27,8 @@ namespace DisableSpells
         {
             Spells.Add(new SpellStruct
             {
-                ChampionName = "Twitch",
-                AvailableSpell = SpellSlot.Q
+                ChampionName = "Jayce",
+                AvailableSpell = SpellSlot.W
             });
             
             Spells.Add(new SpellStruct
